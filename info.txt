@@ -1,0 +1,4 @@
+Para alojar (o compartir) un repositorio Git en Github, siga los siguientes pasos:
+Paso 1: Registrar una cuenta de Github
+El primer paso para comenzar con el alojamiento en Github es crear una cuenta personal. Visite la página de registro oficial para registrarse.
+
