@@ -27,9 +27,9 @@ Los Procesadores de Texto también incorporan correctores de ortografía y gram�
 
 - Las *funciones* que un procesador de palabras ofrece son:
 
-[ ] Facilidad para escribir texto.
-[ ] Agregar, borrar o mover palabras, oraciones o secciones completas de texto.
-[ ] Corrección de errores.
-[X] Cambio del aspecto del texto.
-[ ]Impresión del contenido.
-[ ] Capacidad de almacenamiento permanente de información.
+-[ ] Facilidad para escribir texto.
+-[ ] Agregar, borrar o mover palabras, oraciones o secciones completas de texto.
+-[ ] Corrección de errores.
+-[X] Cambio del aspecto del texto.
+-[ ]Impresión del contenido.
+-[ ] Capacidad de almacenamiento permanente de información.
